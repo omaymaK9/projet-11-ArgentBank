@@ -1,0 +1,46 @@
+.edit-user {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.edit-username-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.button-edit-green {
+    padding: 8px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-top: 1rem;
+    border-color: #00bc77;
+    background-color: #00bc77;
+    color: #fff;
+}
+
+.button-edit-red {
+    padding: 8px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-top: 1rem;
+    background-color: #bc0d00;
+    color: #fff;
+}
+
+.edit-firstname {
+    display: flex;
+}
+
+.divEdit {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.divSpaceform {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
